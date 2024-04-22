@@ -1,0 +1,5 @@
+Criar uma solução que acumule valores numéricos do tipo inteiro. Mostrar o resultado da soma, com o acréscimo de um percentual de acordo com o tipo de taxa. 
+Sendo os tipos de taxa os seguintes: Para o tipo TAX_10 acrescentar 10% ao valor final, para o tipo TAX_20 acrescentar 20% ao valor final e assim por diante. 
+A solução deve tornar fácil adicionar novos tipos de taxa, sempre que possível; 
+
+SUM
